@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mouz</string>
+    <string name="description">
+        This will create a thread running in the background, which you
+        can stop by clicking the button, or by closing the app.
+    </string>
+    <string name="server_url">Server URL</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="tag">MOUZ</string>
+</resources>
