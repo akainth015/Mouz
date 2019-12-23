@@ -1,4 +1,4 @@
-package ga.akainth015.mouz
+package me.akainth.mouz
 
 import org.junit.Test
 
